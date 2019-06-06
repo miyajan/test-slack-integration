@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/miyajan/test-slack-integration#readme",
   "devDependencies": {
-    "power-assert": "^1.6.0"
+    "power-assert": "^1.6.1"
   }
 }
