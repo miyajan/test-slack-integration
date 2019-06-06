@@ -1,0 +1,22 @@
+{
+  "name": "test-slack-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyajan/test-slack-integration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyajan/test-slack-integration/issues"
+  },
+  "homepage": "https://github.com/miyajan/test-slack-integration#readme",
+  "devDependencies": {
+    "power-assert": "^1.6.0"
+  }
+}
